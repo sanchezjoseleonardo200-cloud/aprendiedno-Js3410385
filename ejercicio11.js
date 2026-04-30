@@ -1,1 +1,0 @@
-const filtrarPorRango = (catalogo, min, max) 
