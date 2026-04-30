@@ -1,1 +1,0 @@
-let array = ["diego", "claderon", 35, true]
